@@ -1,2 +1,2 @@
 # Thallesemia_Risk_Analysis
-Empowering Health Predictions: Developed an AI-driven model analyzing patients' blood reports to detect potential blood-related disease risks, enhancing proactive healthcare interventions
+Revolutionizing Health Insights: Engineered an AI-powered model to scrutinize patients' blood reports, enabling the early identification of blood-related disease susceptibilities and elevating the efficacy of preemptive healthcare measures
